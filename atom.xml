@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://bobojum.com</id>
+    <title>BOBOJUM</title>
+    <updated>2023-06-20T01:34:11.866Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://bobojum.com"/>
+    <link rel="self" href="https://bobojum.com/atom.xml"/>
+    <subtitle>人像修图师</subtitle>
+    <logo>https://bobojum.com/images/avatar.png</logo>
+    <icon>https://bobojum.com/favicon.ico</icon>
+    <rights>All rights reserved 2023, BOBOJUM</rights>
+    <entry>
+        <title type="html"><![CDATA[推介我 分享免费修]]></title>
+        <id>https://bobojum.com/post/tui-jie-wo/</id>
+        <link href="https://bobojum.com/post/tui-jie-wo/">
+        </link>
+        <updated>2023-06-13T15:05:49.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://bobojum.com/post-images/1686668941737.jpg" alt="" loading="lazy"><br>
+朋友圈、微博 转发此宣传图片<br>
+可获得BOBOJUM 免费精修 照片一张<br>
+<a href="https://item.taobao.com/item.htm?spm=a21dvs.23580594.0.0.3bc1645eP2XFUo&ft=t&id=722443955500" target="_blank">👉🎁<strong>点击进入淘宝活动链接</strong>🎁👈</a><br>
+<a href="https://item.taobao.com/item.htm?spm=a21dvs.23580594.0.0.3bc1645eP2XFUo&ft=t&id=722443955500" target="_blank"><img src="https://bobojum.com/post-images/1686669641981.png" alt="" loading="lazy"></a></p>
+]]></content>
+    </entry>
+</feed>
